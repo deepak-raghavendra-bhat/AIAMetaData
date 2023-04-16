@@ -1,2 +1,2 @@
-# AIAMetadata
-AIA Metadata from installables
+# AIAMetaData
+AIA MetaData from installables
